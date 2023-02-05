@@ -1,0 +1,1 @@
+print("MAMA PYHONE DHUKSE PC TEY")
